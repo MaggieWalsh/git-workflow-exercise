@@ -4,7 +4,7 @@
 git add .
 
 # commit changes
-git commit -m "Add commit essage here"
+git commit -m "$1"
 
 # push changes
 git push
